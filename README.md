@@ -1,7 +1,7 @@
 ### **Hi there!** 
 
 #### About me:
-I'm 19 and a beginner in programming.   
+I'm a beginner in programming.   
 It all started when I received a scholarship to study basic **frontend** last year (2022) and I fell in love with it!
   
 I'm currently focused on learning programming languages. I started with JavaScript, and then I received another scholarship to study Java.   
